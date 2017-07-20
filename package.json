@@ -21,7 +21,9 @@
     ],
     "keywords": [
         "theme",
-        "color-theme"
+        "color-theme",
+        "customization",
+        "dark"
     ],
     "contributes": {
         "themes": [
