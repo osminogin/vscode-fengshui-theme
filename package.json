@@ -2,11 +2,16 @@
     "name": "fengshui-theme",
     "displayName": "Fengshui Theme",
     "description": "Fengshui color scheme.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "osminogin",
+    "author": {
+        "name": "Vladimir Osintsev",
+        "email": "oc@co.ru"
+    },
     "engines": {
         "vscode": "^1.12.0"
     },
+    "icon": "icon.png",
     "homepage": "https://github.com/osminogin/vscode-fengshui-theme/blob/master/README.md",
     "repository": {
         "type": "git",
